@@ -18,9 +18,8 @@ describe('Testing Personal Slack Workspace', function () {
     });
 
     cy.visit('https://vasikarla.slack.com/');
-
-    // cy.get("#email").type("vasikarla.raj@gmail.com");
-    // cy.get("#password").type("splendor");
-    // cy.get("#signin_btn").click();
+    cy.get("#email").type("vasikarla.raj@gmail.com");
+    cy.get("#password").type("splendor");
+    cy.get("#signin_btn").click();
   });
 });
