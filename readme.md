@@ -13,4 +13,15 @@ Opening Cypress...
 
 - Step 5: You'll see cypress UI, Select the Browser and Click "Run All Tests"
 
+[OR]
+
+- Step 6 : Instead of Step 5 you could do a `cypress run`. The below would be the output
+
+
+  Testing Personal Slack Workspace
+    ✓ Launch and Login (2161ms)
+
+
+  1 passing (5s)
+
 
