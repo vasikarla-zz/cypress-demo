@@ -24,4 +24,4 @@ Opening Cypress...
 
   1 passing (5s)
 
-
+- Step 7 : If you are interested to run the tests in electron mode (DT) use the command `cypress run --headed`
