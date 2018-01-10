@@ -1,5 +1,7 @@
 ###Steps to Run
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vasikarla/cypress-demo.svg)](https://greenkeeper.io/)
+
 - Step 1 : git clone https://github.com/vasikarla/cypress-demo.git
 - Step 2 : cd cypress-demo
 - Step 3 : yarn install
