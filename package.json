@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.1.2"
-  }
+    "cypress": "^1.1.2",
+    "snyk": "^1.83.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
